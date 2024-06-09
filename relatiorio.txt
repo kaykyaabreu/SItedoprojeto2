@@ -1,0 +1,15 @@
+planejamento
+
+no planejamento primeiramente crei um formulario pelo google forms chamado "dificuldades com a tecnologia" com a pergunta quais são suas dificuldades com a tecnologia e enviei para todos os meus contatos que moram na comunidade.
+
+Cronograma
+
+O cronograma se baseia em criar uma plataforma de auxilio beta, feita de forma generica onde eu colocaria as intruçoes de como solucionar os ploblemas, a platforma excolhida foi um site em HTML5 e CSS3, após alguns dias terminar o site ultilizando os dados obtidos.
+
+Check list
+
+Todos os conteudos foram implementados no site https://kaykyaabreu.github.io/SIteDoProjeto/ e adaptados da melhor forma que consegui.
+
+Revisão
+
+com a ajuda de apernetes toda a revisão foi feita e aprovada.
